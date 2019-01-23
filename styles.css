@@ -22,6 +22,10 @@ body
   margin: 0 auto;
 }
 
+#img-caption {
+  margin-top: 8px;
+}
+
 #tribute-info {
   line-height: 2em;
   max-width: 676px;
